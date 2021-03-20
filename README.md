@@ -1,9 +1,12 @@
-### Hi 👋
+Olar
 
 
 
-- I’m currently ABC Federal University student 
-- 🌱 I’m currently learning HTML, CSS ,JavaScript, Python, java ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with javaScript, Python ...
-- 💬 Ask me about ...
+Estudante da Universidade Federal do ABC 
+Engenharia Biomédicas / Ciência da Computação  
+Estudo HTML, CSS ,JavaScript, Python, java ...
+
+Sou um amante de ciência, e gosto muito de estudar, atualemente estou focado em melhorar a minha formção intelectual em linguiagem de programção.
+
+Meu Linkedin https://www.linkedin.com/in/brunomorikuni/
+
