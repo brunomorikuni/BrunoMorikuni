@@ -6,7 +6,7 @@ JavaScript, Python, java
 
 Sou um amante de ciência, atualemente estou focado em melhorar a minha formção intelectual em linguiagem de programação.
 
-Estudando com ênfase a linguagem Python, com foco em manipulação de dados e data Science com correlações ao SQL.
+Sou um Ex-ferante, que atualemnte estudo com ênfase a linguagem Python, com foco em manipulação de dados e data Science com correlações ao SQL.
 ##
 <div align="center">
   <a href="https://github.com/brunomorikuni">
