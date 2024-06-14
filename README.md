@@ -2,7 +2,7 @@ Olá, sou o Bruno Morikuni
 
 Estudante da Universidade Federal do ABC 
 Engenharia Biomédicas / Ciência da Computação  
-JavaScript, Python, java 
+Python
 
 Sou um Ex-feirante, atualemente estou focado em melhorar a minha formção intelectual em linguiagem de programação.
 
